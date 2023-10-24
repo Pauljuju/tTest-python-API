@@ -13,3 +13,5 @@ def home():
 
 if __name__=="__main__":
     app.run(debug=True)
+
+    # Again i tried the pull and it works #
